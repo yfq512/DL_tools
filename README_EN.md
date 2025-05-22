@@ -2,7 +2,7 @@
 Useful tools for computer vision/deep learning.
 </h2>
 <h4 align="center">
-    <p><a href="https://github.com/Weifeng-Chen/DL_tools">简体中文</a> | <b>English</b><p>
+    <p><a href="https://github.com/yfq512/DL_tools">简体中文</a> | <b>English</b><p>
 </h4>
 
 # Usage
